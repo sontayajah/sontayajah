@@ -8,8 +8,8 @@
 <br/>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **PAIKAN**
-- 🌱 I’m currently learning **Go**
+- 🔭 I’m currently working on **BKK ELECTION**
+- 🌱 I’m currently learning **Go (Gin), Apache Kafka, Centrifugo, Redis, SQLc**
 - ⚡ Fun fact: I love turning ideas into code.
 
 <br/>
